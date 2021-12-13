@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.container {
+  height: 50vh;
+  background-color: antiquewhite;
+  width: 50vw;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
